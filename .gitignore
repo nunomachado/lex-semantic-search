@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+lex-semantic-search/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +128,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# IDE
+.idea
+*.iml
+
+# Custom files
+data/
