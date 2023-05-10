@@ -1,0 +1,7 @@
+gradio
+transformers
+faiss-cpu
+datasets
+sentence-transformers
+data-cache
+torch
