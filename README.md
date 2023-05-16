@@ -22,8 +22,8 @@ The Gradio application is pre-loaded with chunks (chunk size is 25 contiguous en
 ```bash
 python -m venv lex-semantic-search
 source lex-semantic-search/bin/activate 
+pip install -r requirements.txt     # for GPU
 pip install -r requirements_cpu.txt # for CPU
-pip install -r requirements_gpu.txt # for GPU
 ```
 
 2. Run the application locally using the following command:
